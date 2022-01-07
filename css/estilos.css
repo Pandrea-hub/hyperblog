@@ -1,6 +1,6 @@
 body
 {
-    color:white;
+    color:black;
     text-align: center;
     font-family: monospace;
     font-size: 16px;
@@ -12,9 +12,11 @@ body
 
 #container
 {
+    box-shadow: 5px 7px 28px -3px rgba(0,0,0,0.62);
+    background-color: aliceblue;
     font-size: 15px;
     width: 50%;
-    padding: 1em;
+    padding: 0;
     border-bottom: 3px solid #faf;
     border-left: 10px solid #A5E3F5;
     border-right:10px solid #CCF5A5;
@@ -29,4 +31,22 @@ body
 #container h1
 {
     font-size: 25px;
+}
+
+#cabecera 
+{
+    background-color:lightpink;
+    color: white;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+
+}
+
+
+#cabecera #tagline
+{
+    font-weight: normal;
+    font-size: 0.8em;
 }
