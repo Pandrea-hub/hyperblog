@@ -1,22 +1,28 @@
 body
 {
-    color:darkmagenta;
+    color:white;
     text-align: center;
     font-family: monospace;
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color:blueviolet;
     
 }
 
 #container
 {
     font-size: 15px;
-    width: 70%;
+    width: 50%;
     padding: 1em;
-    text-align: left;
-    border: 1px solid #ddd;
+    border-bottom: 3px solid #faf;
+    border-left: 10px solid #A5E3F5;
+    border-right:10px solid #CCF5A5;
+    border-top:3px solid #ddd;
+    text-align: center;
     margin: 0 auto;
+    margin-top: 10;
+
 
 }
 
