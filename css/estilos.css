@@ -1,19 +1,18 @@
 body
 {
-    color:darkorchid;
+    background:#8a2be2;
+    color:black;
     text-align: center;
     font-family:monospace;
     font-size: 16px;
     margin: 0;
     padding: 0;
-    background-color:blueviolet;
     
 }
 
 #container
 {
     box-shadow: 5px 7px 28px -3px rgba(0,0,0,0.62);
-    background-color: aliceblue;
     font-size: 15px;
     width: 50%;
     padding: 0;
@@ -33,20 +32,35 @@ body
     font-size: 25px;
 }
 
+#post
+{
+    background: white;
+    padding: 1em;
+}
+
 #cabecera 
 {
-    background-color:lightpink;
+    background-color: lightpink;
     color: white;
     text-align: left;
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
+    padding: 0.5em 0 0.5em 2em;
 
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+    
 }
 
 
 #cabecera #tagline
 {
+    padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
