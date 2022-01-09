@@ -64,3 +64,11 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
+
+
+#footer
+{
+    background:#faf;
+    color: black;
+    padding: 0.5em;
+}
