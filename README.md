@@ -14,6 +14,7 @@ Un proyecto que cambio mi vida, ademas de aprender Git y GitHub con Platzi :laug
 6. Entendi para que es .gitignore y README.md(Como pueden ver)
 7. Cherry-pick 
 8. Creado por mi pero con ayuda de Platzi
+9. Incluye ejemplos en Windows, Linux y Mac
 *Y entre muchas otras cosas que talvez olvide mencionarlas pero a la hora de ejecutarlas sabre cuando usarlas ✌️*
 
 # Gracias por tu atención🥰
