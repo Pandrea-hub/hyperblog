@@ -17,6 +17,7 @@ Un proyecto que cambio mi vida, ademas de aprender Git y GitHub con Platzi :laug
 9. Incluye ejemplos en Windows, Linux y Mac
 10. La edad y el genero no importa
 11. Stash 
+12. Rebase vs Merge
 *Y entre muchas otras cosas que talvez olvide mencionarlas pero a la hora de ejecutarlas sabre cuando usarlas ✌️*
 
 # Gracias por tu atención🥰
