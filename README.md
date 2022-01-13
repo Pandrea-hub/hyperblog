@@ -16,6 +16,7 @@ Un proyecto que cambio mi vida, ademas de aprender Git y GitHub con Platzi :laug
 8. Creado por mi pero con ayuda de Platzi
 9. Incluye ejemplos en Windows, Linux y Mac
 10. La edad y el genero no importa
+11. Stash 
 *Y entre muchas otras cosas que talvez olvide mencionarlas pero a la hora de ejecutarlas sabre cuando usarlas ✌️*
 
 # Gracias por tu atención🥰
